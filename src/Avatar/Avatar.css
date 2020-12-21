@@ -1,0 +1,10 @@
+.circle{
+    border-radius: 50%;
+}
+.Avatar{
+    border: 2px solid black;
+    padding: 100px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+}
